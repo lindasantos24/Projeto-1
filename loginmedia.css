@@ -1,0 +1,20 @@
+@media (min-width: 1024px) {
+    #container {
+        width: 902px;
+        justify-content: space-between;
+    }
+
+        #container .banner {
+            display: flex;
+        }
+
+        #container .banner img{
+            width: 300px;
+            height: 300px;
+        }
+
+        #container .box-login {
+            width: 400px;
+            border-radius: 10px 10px 10px 0px;
+        }
+}
